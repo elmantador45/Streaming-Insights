@@ -8,3 +8,4 @@ Features
     Fetch and display genres along with relevance percentiles.
   
     Fetch and display the regions where the content is available.
+API link: https://api.watchmode.com/
