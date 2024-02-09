@@ -5,6 +5,6 @@ Features
 
     Fetch and display user ratings for selected movies and TV shows.
   
-     Fetch and display genres along with relevance percentiles.
+    Fetch and display genres along with relevance percentiles.
   
     Fetch and display the regions where the content is available.
